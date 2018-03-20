@@ -1,4 +1,5 @@
 ![](Cover.jpg)
+
 The contents of the book:
 Chapter 0. Preface
 Chapter 1. Introduction to Programming
