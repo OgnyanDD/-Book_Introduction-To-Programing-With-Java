@@ -1,4 +1,4 @@
-The book “Introduction to Programming with Java” focuses on the fundamentals of computer programming, logical, algorithmical thinking,
+The book [“Introduction to Programming with Java”](http://www.introprogramming.info/intro-java-book/read-online/) focuses on the fundamentals of computer programming, logical, algorithmical thinking,
 problem solving, data structures and algorithms. It uses a contemporary object-oriented approach and language but is valuable for any
 non-Java programmer in the begginning of his career. The book is free and open-source.
 
